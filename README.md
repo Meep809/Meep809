@@ -20,4 +20,5 @@ I'm Meep, an 8th grade student with a passion for coding, and this is my GitHub 
 - **MacBook Air 11" (2013)**  
 - **"The Beast" – ASUS Vivobook M1603QA (2023)**  
 
+ <a href="https://meep809.github.io/">Back to Homepage</a>
 *chatgpt really uses too many emojis so i removed them, all that i wanted it to do is organize my collection for goodness sakes*
