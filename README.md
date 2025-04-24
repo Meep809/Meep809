@@ -21,9 +21,9 @@ I'm Meep, an 8th grade student with a passion for coding, and this is my GitHub 
 - **Gateway Netbook (2008)**  
 - **MacBook Air 11" (2013)**  
 - **"Mini Beast" – ASUS Vivobook M1603QA (2023)**
-
-  And last but not least,
-  ***THE GAMING RIG***
+  
+  ### And last but not least,
+  ### ***THE GAMING RIG***
 -  AMD Ryzen 5 2600U CPU
 -  16GB CORSAIR Vengence DDR4 RAM
 -  MSI nVidia geForce GTX 1660Ti GPU
