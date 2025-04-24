@@ -26,7 +26,7 @@ I'm Meep, an 8th grade student with a passion for coding, and this is my GitHub 
 ### ***THE GAMING RIG***
 -  AMD Ryzen 5 2600U CPU
 -  16GB CORSAIR Vengence DDR4 RAM
--  MSI nVidia geForce GTX 1660Ti GPU
+-  MSI NVIDIA GeForce GTX 1660Ti GPU
 -  GIGABYTE 650W PSU
 -  GAMDIAS Talos E1 Case
 -  Crucial MX2000 2TB SSD
