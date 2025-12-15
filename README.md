@@ -1,6 +1,6 @@
 ### Hi!  
 
-I'm Sam, a 9th grade student with a passion for coding, and this is my GitHub profile! 
+I'm Sam, a 9th grade student with a passion for coding, and this is my profile! 
 
 <hr>
 
