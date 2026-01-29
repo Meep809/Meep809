@@ -20,10 +20,9 @@ I'm Sam, a 9th grade student with a passion for coding, and this is my about me 
 - **Dell Dimension 4500 (2002)**  
 - **Gateway Netbook (2008)**  
 - **MacBook Air 11" (2013)**  
-- **"Mini Beast" – ASUS Vivobook M1603QA (2023)**
+- **ASUS Vivobook M1603QA (2023)**
   
-### And last but not least,
-### ***THE GAMING RIG***
+### ***My NEW gaming pc :D***
 -  AMD Ryzen 5 2600U CPU
 -  16GB CORSAIR Vengence DDR4 RAM
 -  MSI NVIDIA GeForce GTX 1660Ti GPU
